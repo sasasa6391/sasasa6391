@@ -43,7 +43,7 @@
 </br>
 
 
-<h3 align="center">Web Links</h3>
+<h3 align="center">:rocket: Web Links</h3>
 
 <p align="center">
   <a href="https://solved.ac/profile/201812106"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=201812106"></a><br>
