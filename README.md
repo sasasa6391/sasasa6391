@@ -35,6 +35,9 @@
 
 </br></br>
 
-<br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=201812106)](https://solved.ac/201812106/)</br>
-<br>[![CodeForces Profile](https://cf.leed.at?id=Allz)](https://codeforces.com/profile/Allz)</br>
+<h3 align="center">🔭 Activity</h3>
+부산대학교 정보컴퓨터공학부 알고리즘 동아리 Pulse(2019 ~ 2021)
+
+</br></br>
+
 
