@@ -34,6 +34,13 @@ Here are some ideas to get you started:
   2019 삼성 대학생 프로그래밍 대회(SCPC) 본선 진출</b>
 </p>
 
+<h3 align="center">🖥️ Work Experience</h3>
+
+<p align="center">
+  <b>Vagames Client Programmer</b><br>
+  <b>Cookapps106 Client Programmer</b><br>
+</p>
+
 
 <br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=201812106)](https://solved.ac/201812106/)</br>
 <br>[![CodeForces Profile](https://cf.leed.at?id=Allz)](https://codeforces.com/profile/Allz)</br>
