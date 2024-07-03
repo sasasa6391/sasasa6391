@@ -8,7 +8,6 @@
   <b>프로그래밍 (2019.03 ~ ing)</b><br><br>
   <b>게임개발 (2021.10 ~ ing)</b><br><br>
 </p>
-</br>
 
 <h3 align="center">🌱 Experience</h3>
 
