@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <h3 align="center">🖥️ Work Experience</h3>
 
 <p align="center">
-  <b>Vagames Client Programmer</b><br>
-  <b>Cookapps106 Client Programmer</b><br>
+  <b>Vagames Client Programmer</b><br>(2023.08 ~ 2023.12)
+  <b>Cookapps106 Client Programmer</b><br>(2022.02 ~ 2023.03)
 </p>
 
 
