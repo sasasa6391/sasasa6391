@@ -7,6 +7,8 @@
   <b>부산대학교 물리학 학사 & 정보컴퓨터공학 부전공 (2018 ~ 2022)</b>
 </p>
 
+</br></br>
+
 <h3 align="center">🌱 Experience</h3>
 
 <p align="center">
@@ -22,6 +24,8 @@
   백준 온라인 저지 Open Contest 준우승 2회</b></br>
 </p>
 
+</br></br>
+
 <h3 align="center">🖥️ Work Experience</h3>
 
 <p align="center">
@@ -29,6 +33,7 @@
   <b>Cookapps106 Client Programmer(2022.02 ~ 2023.03)<br>
 </p>
 
+</br></br>
 
 <br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=201812106)](https://solved.ac/201812106/)</br>
 <br>[![CodeForces Profile](https://cf.leed.at?id=Allz)](https://codeforces.com/profile/Allz)</br>
