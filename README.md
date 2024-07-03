@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center">
-  <br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=201812106)](https://solved.ac/201812106/)</br>
-  <br>[![CodeForces Profile](https://cf.leed.at?id=Allz)](https://codeforces.com/profile/Allz)</br>
-</p>
+<br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=201812106)](https://solved.ac/201812106/)</br>
+<br>[![CodeForces Profile](https://cf.leed.at?id=Allz)](https://codeforces.com/profile/Allz)</br>
 
