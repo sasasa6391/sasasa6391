@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">🌱 Experience</h3>
 
 <p align="center">
-  <b>게임 개발 시 (2021.10 ~ ing)</b><br><br>
+  <b>게임 개발 시작 (2021.10 ~ ing)</b><br><br>
   2021년 부산대학교 프로그래밍 대회 1위 (정보컴퓨터공학장상) 수상</b><br><br>
   2020년 부산대학교 프로그래밍 대회 1위 (총장상) 수상</b><br><br>
   2019년 부산대학교 프로그래밍 대회 3위 (IEEE-Chair상) 수상</b><br><br>
