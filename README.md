@@ -2,7 +2,6 @@
 
 
 <h3 align="center">🙋‍♂️ Profile</h3>
-</br>
 <p align="center">
   <b>부산대학교 물리학 학사 & 정보컴퓨터공학 부전공 (2018 ~ 2022)</b><br><br>
   <b>프로그래밍 (2019.03 ~ ing)</b><br><br>
