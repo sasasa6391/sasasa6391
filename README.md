@@ -36,7 +36,9 @@
 </br></br>
 
 <h3 align="center">🔭 Activity</h3>
-부산대학교 정보컴퓨터공학부 알고리즘 동아리 Pulse(2019 ~ 2021)
+<p align="center">
+  부산대학교 정보컴퓨터공학부 알고리즘 동아리 Pulse(2019 ~ 2021)
+</p>
 
 </br></br>
 
