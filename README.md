@@ -12,16 +12,16 @@
 <h3 align="center">🌱 Experience</h3>
 
 <p align="center">
-  <b>2019. 부산대학교 프로그래밍 대회 3위 (IEEE-Chair상) 수상</b><br><br>
-  <b>2019. 삼성 대학생 프로그래밍 대회(SCPC) Onsite Final 진출</b></br></br>
-  <b>2020. 부산대학교 프로그래밍 대회 1위 (총장상) 수상</b><br><br>
-  <b>2020. 삼성 대학생 프로그래밍 대회(SCPC) Onsite Final 진출</b><br><br>
-  <b>2020. 국제 대학생 프로그래밍 대회(ICPC) Seoul Regional 참가 (부산대학교 대표팀, 38th)</b><br><br>
-  <b>2020. 전국 대학생 프로그래밍 대회(UCPC) 본선 진출</b><br><br>
-  <b>2021. 국제 대학생 프로그래밍 대회(ICPC) Seoul Regional 참가 (부산대학교 대표팀, 36th)</b><br><br>
-  <b>2021. 부산대학교 프로그래밍 대회 1위 (정보컴퓨터공학장상) 수상</b><br><br>
-  <b>2022. 쿡앱스 게임잼 참가 (히어로 키우기: 전설의 용병단 / Team : 센터는 김도명)</b></br></br>
-  <b>etc. 백준 온라인 저지 Open Contest 준우승 2회</b></br>
+  <b>2019 부산대학교 프로그래밍 대회 3위 (IEEE-Chair상) 수상</b><br><br>
+  <b>2019 삼성 대학생 프로그래밍 대회(SCPC) Onsite Final 진출</b></br></br>
+  <b>2020 부산대학교 프로그래밍 대회 1위 (총장상) 수상</b><br><br>
+  <b>2020 삼성 대학생 프로그래밍 대회(SCPC) Onsite Final 진출</b><br><br>
+  <b>2020 국제 대학생 프로그래밍 대회(ICPC) Seoul Regional 참가 (부산대학교 대표팀, 38th)</b><br><br>
+  <b>2020 전국 대학생 프로그래밍 대회(UCPC) 본선 진출</b><br><br>
+  <b>2021 국제 대학생 프로그래밍 대회(ICPC) Seoul Regional 참가 (부산대학교 대표팀, 36th)</b><br><br>
+  <b>2021 부산대학교 프로그래밍 대회 1위 (정보컴퓨터공학장상) 수상</b><br><br>
+  <b>2022 쿡앱스 게임잼 참가 (히어로 키우기: 전설의 용병단 / Team : 센터는 김도명)</b></br></br>
+  <b>백준 온라인 저지 Open Contest 준우승 2회</b></br>
 </p>
 
 </br>
