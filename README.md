@@ -8,8 +8,7 @@
   <b>프로그래밍 시작(2019.03 ~ ing)</b><br><br>
   <b>게임개발 시작(2021.10 ~ ing)</b><br><br>
 </p>
-
-</br></br>
+</br>
 
 <h3 align="center">🌱 Experience</h3>
 
@@ -25,7 +24,7 @@
   백준 온라인 저지 Open Contest 준우승 2회</b></br>
 </p>
 
-</br></br>
+</br>
 
 <h3 align="center">🖥️ Work Experience</h3>
 
