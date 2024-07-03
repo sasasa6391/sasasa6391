@@ -9,6 +9,15 @@
   <b>게임개발 (2021.10 ~ ing)</b><br><br>
 </p>
 
+<h3 align="center"> 📚Stack </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
+</p>
+<h3 align="center"> 🛠️Tools </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Rider-000000.svg?style=flat-square&logo=Rider&logoColor=white&color=black&labelColor=crimson"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
+</p>
+
 <h3 align="center">🌱 Experience</h3>
 </br>
 
