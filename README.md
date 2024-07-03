@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   2020 전국 대학생 프로그래밍 대회(UCPC) 본선 진출</b><br><br>
   2020 삼성 대학생 프로그래밍 대회(SCPC) 본선 진출</b><br><br>
   2019 삼성 대학생 프로그래밍 대회(SCPC) 본선 진출</b>
+  백준 온라인 저지 Open Contest 준우승 2회
 </p>
 
 <h3 align="center">🖥️ Work Experience</h3>
