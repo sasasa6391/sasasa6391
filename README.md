@@ -13,9 +13,9 @@
 
 <p align="center">
   <b>게임 개발 시작!! (2021.10 ~ ing)</b><br><br>
-  2021년 부산대학교 프로그래밍 대회 1위 (정보컴퓨터공학장상) 수상</b><br><br>
-  2020년 부산대학교 프로그래밍 대회 1위 (총장상) 수상</b><br><br>
-  2019년 부산대학교 프로그래밍 대회 3위 (IEEE-Chair상) 수상</b><br><br>
+  2021 부산대학교 프로그래밍 대회 1위 (정보컴퓨터공학장상) 수상</b><br><br>
+  2020 부산대학교 프로그래밍 대회 1위 (총장상) 수상</b><br><br>
+  2019 부산대학교 프로그래밍 대회 3위 (IEEE-Chair상) 수상</b><br><br>
   2021 국제 대학생 프로그래밍 대회(ICPC) Seoul Regional 참가 (부산대학교 대표팀, Team: DP=DynamicPulse, 36th)</b><br><br>
   2020 국제 대학생 프로그래밍 대회(ICPC) Seoul Regional 참가 (부산대학교 대표팀, Team: KimhaeDancingMachineRalo, 38th)</b><br><br>
   2020 전국 대학생 프로그래밍 대회(UCPC) 본선 진출</b><br><br>
